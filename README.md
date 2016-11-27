@@ -1,8 +1,18 @@
 # HTH-MERN
 
-HTH MERN starter
+MERN.io based platform for organizing humanitarian tech communities
 
 http://mern.io/
+
+## References and Resources
+
+### Authentication
+
+https://auth0.com/blog/secure-your-react-and-redux-app-with-jwt-authentication/
+
+https://github.com/auth0-blog/redux-auth
+
+Auth module - https://github.com/lynndylanhurley/redux-auth
 
 ----------------------------
 
